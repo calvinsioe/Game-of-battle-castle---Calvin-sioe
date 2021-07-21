@@ -1,210 +1,210 @@
 [
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player1_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\img_player1_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player2_round.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player2_round.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player2_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player2_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_button_listener_test.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\layout\\activity_button_listener_test.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player2_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\img_player2_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player2_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player2_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player2_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player2_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_player1_background.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\drawable\\img_player1_background.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player2_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\img_player2_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player2.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\img_player2.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player2_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player2_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player1_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\img_player1_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player2.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player2.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player2.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\img_player2.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player1.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\img_player1.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player1.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player1.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player1_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player1_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player1.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player1.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player2_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player2_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player1_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\img_player1_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player1_round.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player1_round.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player1_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\img_player1_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player2_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\img_player2_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_button_listener_test.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\layout\\activity_button_listener_test.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player2.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\img_player2.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player2.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player2.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player2_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\img_player2_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player2.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player2.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player1_round.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player1_round.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player2_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\img_player2_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player1_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player1_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_player2_background.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\drawable\\img_player2_background.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player1_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\img_player1_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player2_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\img_player2_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player2_round.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player2_round.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player1_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\img_player1_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player2_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\img_player2_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player1_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player1_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player2.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player2.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player1_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player1_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player2.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\img_player2.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player2_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player2_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player2_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player2_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player2_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\img_player2_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player1.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\img_player1.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player1_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\img_player1_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player2_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\img_player2_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player2_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\img_player2_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player2_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player2_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player2_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\img_player2_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player1_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\img_player1_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player1.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\img_player1.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player1.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player1.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player2.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\img_player2.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player1_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\img_player1_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player1.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player1.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player1.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\img_player1.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_player1_background.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\drawable\\img_player1_background.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player1_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player1_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player1_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player1_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player1_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\img_player1_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_player2_background.xml.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\drawable\\img_player2_background.xml"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player1.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\img_player1.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player2_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-hdpi\\img_player2_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_img_player1_foreground.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-hdpi\\img_player1_foreground.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player1.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\img_player1.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player1_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player1_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player1.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player1.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_img_player2.xml.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-anydpi-v26\\img_player2.xml"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_img_player1_round.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\img_player1_round.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player1_foreground.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player1_foreground.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_img_player1.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xxhdpi\\img_player1.png"
     },
     {
-        "merged": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_img_player2.png.flat",
-        "source": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\src\\main\\res\\mipmap-xxxhdpi\\img_player2.png"
+        "merged": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_img_player2.png.flat",
+        "source": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\src\\main\\res\\mipmap-xhdpi\\img_player2.png"
     }
 ]

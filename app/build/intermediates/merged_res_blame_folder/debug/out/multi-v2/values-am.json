@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Workspace\\Android Studio\\Game-of-battle-castle---Calvin-sioe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+            "outputFile": "D:\\Workspace\\Android Studio\\BinusUAS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\77c7b97873973e149b09819f46c0a153\\appcompat-1.3.0\\res\\values-am\\values-am.xml",
