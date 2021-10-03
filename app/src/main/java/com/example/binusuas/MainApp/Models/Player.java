@@ -57,7 +57,8 @@ public class Player {
     }
 
     // constructor
-    public Player(int infantryArmyTotal,int cavalryArmyTotal, int archerArmyTotal, int catapultArmyTotal, String castleType) {
+    public Player(int infantryArmyTotal,int cavalryArmyTotal, int archerArmyTotal, int catapultArmyTotal,
+                  String castleType) {
         setCastleType(castleType);
         setArmy(archerArmyTotal, infantryArmyTotal, catapultArmyTotal, cavalryArmyTotal);
     }
@@ -81,7 +82,8 @@ public class Player {
 
     // mengecek castle
     public void checkCastle(String castleType){
-        if (castleType.equals(horseCastle.getCastleType())||castleType.equals(woodCastle.getCastleType())||castleType.equals(steelCastle.getCastleType())||castleType.equals(stoneCastle.getCastleType())){
+        if (castleType.equals(horseCastle.getCastleType())||castleType.equals(woodCastle.getCastleType())||
+                castleType.equals(steelCastle.getCastleType())||castleType.equals(stoneCastle.getCastleType())){
             this.castleType = castleType;
         } else {
             System.out.println("Error Castle Not Found");

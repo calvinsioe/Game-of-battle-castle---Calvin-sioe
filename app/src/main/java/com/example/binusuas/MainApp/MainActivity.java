@@ -12,7 +12,9 @@ import com.example.binusuas.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView txtMatch1StatusPlayer1, txtMatch1StatusPlayer2, txtMatch1InfoPlayer1, txtMatch1InfoPlayer2, txtMatch2StatusPlayer1, txtMatch2StatusPlayer2, txtMatch2InfoPlayer1, txtMatch2InfoPlayer2;
+    TextView txtMatch1StatusPlayer1, txtMatch1StatusPlayer2, txtMatch1InfoPlayer1,
+            txtMatch1InfoPlayer2, txtMatch2StatusPlayer1, txtMatch2StatusPlayer2,
+            txtMatch2InfoPlayer1, txtMatch2InfoPlayer2;
     Button btnFight;
 
     @Override
